@@ -34,6 +34,14 @@ The project contain following datasets :
    - Bubble plots (GNI vs. life expectancy with population size)  
    - Heatmaps for correlations  
 ## Requirement
+You need to have a working python 3.x machine and install following packages to run the project
+
+**Main Python libraries used in this project:**
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scipy
 Run this script to install requirement of the project
 ```bash
 pip install pandas numpy matplotlib seaborn scipy

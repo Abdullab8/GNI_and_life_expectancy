@@ -46,7 +46,22 @@ The project contain following datasets :
    - Line plots for trends across time  
    - Scatter plots with regression lines  
    - Bubble plots (GNI vs. life expectancy with population size)  
-   - Heatmaps for correlations  
+   - Heatmaps for correlations
+## 📌 Conclusion
+
+*From our analysis of GNI per Capita, Population, and Life Expectancy (1800–2050) across countries like USA, Japan, Brazil, India, Nigeria, and Ethiopia:*
+
+__1. Strong correlation between wealth and health__
+- Countries with higher GNI per capita (USA, Japan) consistently achieve higher life expectancy.
+- However, after a certain point (~$30,000), wealth brings diminishing returns — lifestyle and healthcare quality matter more.
+
+__2. Population dynamics shape economic outcomes__
+- Fast-growing populations (India, Nigeria, Ethiopia) make it difficult to raise average income (GNI per capita).
+- In contrast, slower population growth in Japan and USA has supported sustained wealth per person.
+
+__3. Health improvements drive long-term growth__
+- Countries that invested in healthcare and education earlier (Japan, USA) gained not only longer lives but also more productive economies.
+- Late starters (Nigeria, Ethiopia) show progress but still lag in both wealth and life expectancy.
 ## Requirement
 You need to have a working python 3.x machine and install following packages to run the project
 

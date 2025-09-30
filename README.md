@@ -33,3 +33,8 @@ The project contain following datasets :
    - Scatter plots with regression lines  
    - Bubble plots (GNI vs. life expectancy with population size)  
    - Heatmaps for correlations  
+## Requirement
+Run this script to install requirement of the project
+```bash
+pip install pandas numpy matplotlib seaborn scipy
+```

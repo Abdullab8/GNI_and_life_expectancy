@@ -3,6 +3,20 @@
 ## 📌 Project Overview
 This project explores the relationship between **Gross National Income (GNI) per capita**, **population**, and **life expectancy** across different countries and years.  
 The goal is to analyze whether higher income levels are associated with longer life expectancy, and how population size might influence these patterns.
+## 🔹 Problem Statement
+
+While global life expectancy has risen significantly since the 19th century, inequalities in health and wealth persist across countries and regions. Wealthier nations generally enjoy longer lives, but the relationship is not always straightforward. At lower income levels, small increases in wealth can dramatically improve health outcomes, while at higher income levels, gains in longevity tend to plateau.
+
+This raises several questions:
+- How strongly are income and life expectancy related over time?
+
+- Do all regions follow the same pattern, or are there clear exceptions?
+
+- What role does population growth play in shaping these trends?
+
+- Can improvements in life expectancy be explained solely by income, or do other factors (policy, healthcare, social systems) play a critical role?
+
+By addressing these questions, this project seeks to uncover patterns in the relationship between economic development, health, and population — and to provide evidence-based insights into why some regions thrive while others continue to lag behind.
 ## File overview
 - **World_development_Analysis.ipynb**: Main notebook containing the exploratory data analysis (EDA), data cleaning, transformations, and visualizations.  
 - **Project Presentation (PowerPoint)**: Slide deck presenting the project results and insights for a non-technical audience.  

@@ -1,4 +1,4 @@
-# Life Expectancy and GNI per Capita Analysis
+# World Development Analysis
 
 ## 📌 Project Overview
 This project explores the relationship between **Gross National Income (GNI) per capita**, **population**, and **life expectancy** across different countries and years.  

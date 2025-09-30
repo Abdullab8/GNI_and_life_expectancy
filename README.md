@@ -42,6 +42,7 @@ You need to have a working python 3.x machine and install following packages to 
 - matplotlib
 - seaborn
 - scipy
+
 Run this script to install requirement of the project
 ```bash
 pip install pandas numpy matplotlib seaborn scipy
